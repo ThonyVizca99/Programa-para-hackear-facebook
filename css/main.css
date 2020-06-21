@@ -1,0 +1,50 @@
+body{
+    background:  url(https://vignette.wikia.nocookie.net/memes-pedia/images/6/6d/Maxresdeeefault.jpg/revision/latest?cb=20200603205100&path-prefix=es);
+    height: 100vh;
+    background-size: cover;
+
+}
+.linea{
+    
+    border: 1px solid black;
+    
+}
+a {
+    text-decoration: none;
+  }
+.contenedor{
+    
+        max-width: 1280px;
+        width: 90%;
+        margin: auto;
+      
+}
+.titulo{
+
+    text-align: center;
+    font-size: 60px;
+
+}
+
+header{
+    background-color: aquamarine;
+    
+}
+video{
+    display: flex;
+ flex: auto;
+    width: 100%;
+    
+   
+}
+a{
+    padding: 20px;
+    margin: 10px;
+}
+.colorproducto{
+
+    background-color: black;
+
+    color: aquamarine;
+}
+
